@@ -1,0 +1,17 @@
+h2{
+    color:green;
+}
+#p1{
+    color:red;
+    background-color: black;
+}
+.p2{
+    color:aqua;
+    background-color: blue;
+}
+*{
+    background-color:red;
+}
+h3,h4{
+    color:white;
+}
